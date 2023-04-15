@@ -1,0 +1,70 @@
+
+Unraveling the Culprits: A Comprehensive Analysis of Key Contributors to Global Warming
+ 	 		
+			
+				
+					
+				Team Name: SunFlower
+
+
+Abstract 
+Global warming has become a major environmental challenge that threatens the future of our planet. The continuous emission of greenhouse gases, primarily carbon dioxide, from human activities such as burning fossil fuels and deforestation has resulted in the steady rise of Earth's average temperature. This warming trend has led to several adverse effects on the environment, including rising sea levels, melting ice caps, more frequent and severe weather events, and the loss of biodiversity. These impacts have severe consequences on our daily lives, ranging from food and water scarcity to adverse health effects caused by polluted air.
+
+To address this pressing issue, individuals, governments, and businesses must work together to implement measures to mitigate climate change. This requires understanding the factors driving global warming and developing effective strategies to tackle the issue. As a team of data scientists, we aim to leverage data science techniques to analyze the root causes of climate change and identify effective solutions to mitigate its effects.
+
+The purpose of this report is to conduct a deep dive analysis into the key factors driving global warming. We will analyze data from Kaggle dataset to gain insights into the underlying causes of climate change and provide recommendations to address the issue. Our findings will be valuable to individuals, organizations, and policymakers working towards mitigating climate change and ensuring a sustainable future for the planet.
+
+Background Information
+Global warming is a pressing environmental challenge that has significant impacts on the planet's climate, biodiversity, and socio-economic systems. To better understand the underlying causes of climate change and develop effective strategies to mitigate its effects, data science techniques can be used to analyze large datasets and identify patterns and trends.
+
+For this report, we will use a comprehensive dataset provided by Kaggle that contains information on greenhouse gas emissions, global temperature trends, and other socio-economic indicators. This dataset will enable us to conduct a deep dive analysis into the key factors driving global warming and identify effective strategies to mitigate its effects.
+
+Our analysis will focus on several key questions, such as: 
+What are the primary sources of greenhouse gas emissions, and how have these emissions changed over time? 
+How have global temperatures changed over the past century, and what factors are driving these changes? 
+What are the potential economic impacts of climate change, and how can we develop policies to address these impacts?
+Through our analysis of the dataset, we aim to gain valuable insights into the complex issue of global warming and develop effective strategies to mitigate its effects. By answering these key questions, we hope to contribute to the ongoing effort to create a more sustainable future for our planet.
+Content
+The file climate_change.csv contains climate data from May 1983 to December 2008. The available variables include:
+Year: the observation year.
+Month: the observation month.
+Temp: the difference in degrees Celsius between the average global temperature in that period and a reference value. This data comes from the Climatic Research Unit at the University of East Anglia.
+CO2, N2O, CH4, CFC.11, CFC.12: atmospheric concentrations of carbon dioxide (CO2), nitrous oxide (N2O), methane (CH4), trichlorofluoromethane (CCl3F; commonly referred to as CFC-11) and dichlorodifluoromethane (CCl2F2; commonly referred to as CFC-12), respectively. This data comes from the ESRL/NOAA Global Monitoring Division.
+
+CO2, N2O and CH4 are expressed in ppmv (parts per million by volume -- i.e., 397 ppmv of CO2 means that CO2 constitutes 397 millionths of the total volume of the atmosphere)
+CFC.11 and CFC.12 are expressed in ppbv (parts per billion by volume).
+
+Aerosols: the mean stratospheric aerosol optical depth at 550 nm. This variable is linked to volcanoes, as volcanic eruptions result in new particles being added to the atmosphere, which affect how much of the sun's energy is reflected back into space. This data is from the Godard Institute for Space Studies at NASA.
+TSI: the total solar irradiance (TSI) in W/m2 (the rate at which the sun's energy is deposited per unit area). Due to sunspots and other solar phenomena, the amount of energy that is given off by the sun varies substantially with time. This data is from the SOLARIS-HEPPA project website.
+MEI: multivariate El Nino Southern Oscillation index (MEI), a measure of the strength of the El Nino/La Nina-Southern Oscillation (a weather effect in the Pacific Ocean that affects global temperatures). This data comes from the ESRL/NOAA Physical Sciences Division.
+
+
+
+
+
+a. Abstract - This is a brief summary not exceeding 500 - 750 words describing the
+problem, the solution method, and the results.
+b. Introduction – Approximately one to two pages long and contains
+(i) Statement of the problem you are trying to solve
+(ii) Why is it important to solve this problem?
+(iii) Background information and bit of literature survey to present what’s already
+known about this problem.
+c. Methodology - What’s your solution, how do you propose to solve the identified
+problem?
+d. Code - Brief explanation of the code.
+e. Results – here you just state the results as you see them. E.g., In a fictitious study you
+were studying a data collected over a period of 50 years of height of children aged 12
+years. You can state the trends shown in the data, like in all countries the average height
+of 12-year-olds seem to be increasing by 3 mm every decade, except in countries C and
+D. In these two countries it seemed to decrease by 2 mm in the 1980s.
+f. Discussion - interpretation of the results - what do the numbers really mean, do they
+make sense. E.g., In the fictitious study we used to illustrate the results section, Does it
+make sense that in countries C and D the average height decreased. Probably, there was a
+famine in Country C and Country D had an epidemic that affected the health of children
+in the 1980s.
+g. Future Work - Is this study conclusive or does it lead to some future work?
+h. Conclusion - what conclusions can you draw.
+i. References – Research papers, articles, and Internet resources referred to in the rest of
+the report.
+j. Annex-A – This Annex has a list of details regarding the individual contribution of
+each member of the project group
